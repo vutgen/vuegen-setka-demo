@@ -1,0 +1,12 @@
+{
+  "product": "setka",
+  "title": "Сетка — калькулятор заказа",
+  "demo": true,
+  "source_files_sha256": {
+    "offer.html": "fbfd05b40860909e420821152dce961518bce85ec7a6dd4c1fc9f440359b5b54",
+    "index.html": "d41c9204c351697882374735a925705cbb0d8bad99897e779ac7a65400128433",
+    "demo.html": "fb5b97d808c25926ffcab069343e794d4f7d256e9dada83a6087c4ae26073d9f",
+    "calc.js": "205168a171de290fda88a71df66396dfce24ff960c19929fa6e2f251fea95f48",
+    "app.js": "59bb96ae45bb150ce54cdbf3fabff5f34a492ba053ade63747cbfe452551dafa"
+  }
+}
